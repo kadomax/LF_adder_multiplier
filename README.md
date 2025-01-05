@@ -1,1 +1,2 @@
 # LF_adder_multiplier
+This project is about the implementation of the Ladner-Fischer adder in Cadence Virtuoso. This adder is then used to implement a 16-bit multiplier in Cadence Virtuoso. The 16-bit multiplier is implemented using four 8-bit array multipliers. The simple pen-paper based algorithm was used to implement the multiplier using the 16-bit adders. More details can be found in the project_report.pdf file.
